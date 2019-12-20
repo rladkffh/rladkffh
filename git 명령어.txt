@@ -1,0 +1,6 @@
+git init --> .git 파일만들기
+git status --> 현재 파일상황
+git add . -->파일더하기
+git commit --m 1220_01 -->커밋하기 12월20일_01
+git log -->로그보기
+git reset --hard 55e289 -->로그로 지워진파일복구
