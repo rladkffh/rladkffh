@@ -1,0 +1,6 @@
+<input type="hidden" value="${dto.scode}" name ="scode"> 
+안보이게 값들어가게하기
+
+con.setAutoCommit(false) 트랜잭션 설정
+con.commit();
+con.rollback();
